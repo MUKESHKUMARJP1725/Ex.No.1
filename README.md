@@ -1,8 +1,8 @@
-## EX-1    
+## Experiment -1    
 ## Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 
-### NAME: MUKESH KUMAR JP 
-### REG NO: 212222223002                                                                                                
+### Name: MUKESH KUMAR JP 
+### Reg No: 212222223002                                                                                                
  ```
 Table of Contents 
 1.	Introduction 
