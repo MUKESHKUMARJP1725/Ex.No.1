@@ -1,9 +1,9 @@
-## EX-1                                             
-NAME MUKESH KUMAR JP 
-RED NO 212222223002                                                                                                
- 
-## Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs) 
-  
+## EX-1    
+## Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+
+### NAME MUKESH KUMAR JP 
+### RED NO 212222223002                                                                                                
+ ```
 Table of Contents 
 1.	Introduction 
 2.	Understanding Generative AI 
@@ -87,6 +87,6 @@ The study on Generative AI and LLMs highlights their immense potential in transf
   
 10.	Conclusion 
 Generative AI and Large Language Models have transformed AI research and practical applications across industries. While they offer immense potential, challenges such as bias, misinformation, and ethical concerns must be addressed to ensure responsible usage. Future advancements will focus on improving efficiency, interpretability, and multimodal capabilities, paving the way for even more sophisticated AI systems. 
-  
+```
  
 
