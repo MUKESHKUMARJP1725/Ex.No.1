@@ -1,4 +1,4 @@
-## Experiment -1    
+## Experiment No.1    
 ## Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 
 ### Name: MUKESH KUMAR JP 
